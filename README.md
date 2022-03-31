@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Resithan</h1>
+<h1 align="center">Hi Guys👋, I'm Resithan</h1>
 <p align="center"> Team prone to work, determined solution and result oriented I am an individual. I think that I am an entrepreneur who constantly researches, learns and wonders. </p>
 <h3 align="center">A Frontend Developer from Hatay/Turkey</h3>
 
