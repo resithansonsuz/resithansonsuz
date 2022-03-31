@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resithansonsuz" alt="resithansonsuz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omer_snsz" target="blank"><img src="https://img.shields.io/twitter/follow/omer_snsz?logo=twitter&style=for-the-badge" alt="omer_snsz" /></a> </p>
+<p align="center"> <a href="https://twitter.com/omer_snsz" target="blank"><img src="https://img.shields.io/twitter/follow/omer_snsz?logo=twitter&style=for-the-badge" alt="omer_snsz" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Javascript,Flutter etc.**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Team prone to work, determined solution and result oriented I am an individual. I think that I am an entrepreneur who constantly researches, learns and wonders.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omer_snsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omer_snsz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omersonsuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omersonsuz" height="30" width="40" /></a>
