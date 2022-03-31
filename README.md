@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resithansonsuz" alt="resithansonsuz" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/omer_snsz" target="blank"><img src="https://img.shields.io/twitter/follow/omer_snsz?logo=twitter&style=for-the-badge" alt="omer_snsz" /></a> </p>
+<p align="center"> <a href="https://twitter.com/omer_snsz" target="_blank"><img src="https://img.shields.io/twitter/follow/omer_snsz?logo=twitter&style=for-the-badge" alt="omer_snsz" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Javascript,Flutter etc.**
 
