@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Resithan</h1>
 <h3 align="center">A Frontend Developer from Hatay/Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resithansonsuz&label=Profile%20views&color=0e75b6&style=flat" alt="resithansonsuz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=resithansonsuz&label=Profile%20views&color=0e75b6&style=flat" alt="resithansonsuz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resithansonsuz" alt="resithansonsuz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resithansonsuz" alt="resithansonsuz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omer_snsz" target="blank"><img src="https://img.shields.io/twitter/follow/omer_snsz?logo=twitter&style=for-the-badge" alt="omer_snsz" /></a> </p>
 
