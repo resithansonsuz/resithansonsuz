@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Team prone to work, determined solution and result oriented I am an individual. I think that I am an entrepreneur who constantly researches, learns and wonders.**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/omer_snsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omer_snsz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omersonsuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omersonsuz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/osonsuz45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="osonsuz45" height="30" width="40" /></a>
