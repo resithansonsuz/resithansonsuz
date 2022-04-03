@@ -14,7 +14,11 @@
 
 - 📫 How to reach me **omerresithansonsuz@gmail.com**
 
-- ⚡ Fun fact **Team prone to work, determined solution and result oriented I am an individual. I think that I am an entrepreneur who constantly researches, learns and wonders.**
+- ⚡ Fun fact :: **I play basketball and I follow the matches around the world (NBA in particular) as much as possible. I play billiards in the halls I come across. It is pleasant to calculate the path that the ball can go by hitting the sides or the balls. It attracts my attention in table tennis, but I have difficulty in finding the second person.
+Since I have been playing football since childhood, I have the ability to return to the field if needed :D
+I like to listen to many different types of music depending on my mood. I usually listen to emotional music on the computer.**
+
+<p> <img align="center" alt="gif" src="https://github.com/resithansonsuz/resithansonsuz/blob/main/yaz%C4%B1l%C4%B1m.gif" width="500" height="320"p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
