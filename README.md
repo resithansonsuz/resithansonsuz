@@ -1,6 +1,6 @@
 <h1 align="center">Hi Guys👋, I'm Resithan</h1>
 <p align="center"> Team prone to work, determined solution and result oriented I am an individual. I think that I am an entrepreneur who constantly researches, learns and wonders. </p>
-<h3 align="center">A Frontend Developer from Hatay/Turkey</h3>
+<h3 align="center">A Frontend Developer from Kocaeli/Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=resithansonsuz&label=Profile%20views&color=0e75b6&style=flat" alt="resithansonsuz" /> </p>
 
